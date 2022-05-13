@@ -8,9 +8,8 @@ Links:
 
 <a href="https://www.linkedin.com/in/lucas-souza-296126218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Behance:
-📊 https://www.behance.net/lucasjose9
-  
   
   
   ![Snake animation](https://github.com/Noltim/Noltim/blob/output/github-contribution-grid-snake.svg)
+  
+  📊 https://www.behance.net/lucasjose9
