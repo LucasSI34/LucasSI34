@@ -1,11 +1,14 @@
 # Olá! Eu sou o Lucas 
-Estudante graduando em Sistemas de informação 💻 e estudando análise de dados com Python<img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">.
+Estudante graduando em Sistemas de informação 💻 e estudando análise de dados com Python<img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-💻 Aqui no git estão alguns projetos de dados.
+💻 Aqui no git estão alguns projetos de dados
 
 
 Badges:
-![Badge_Alura_Challenge_BI_2](https://user-images.githubusercontent.com/83434422/168397230-7db90d1d-5998-487c-9fdb-4ae2f5d5706a.png)
+div align="center"
+img src="![Badge_Alura_Challenge_BI_2](https://user-images.githubusercontent.com/83434422/168397230-7db90d1d-5998-487c-9fdb-4ae2f5d5706a.png)" width="200px" /
+/div
+
 
 
   
