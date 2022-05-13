@@ -5,7 +5,7 @@ Estudante graduando em Sistemas de informação 💻 e estudando análise de dad
 
 
 Badges:
-<div align="center">
+<div>
 <img src="https://user-images.githubusercontent.com/83434422/168397230-7db90d1d-5998-487c-9fdb-4ae2f5d5706a.png" width="100px" />
 </div>
 
