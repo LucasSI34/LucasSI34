@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá! Eu sou o Lucas 
+Estudante graduando em Sistemas de informação 💻 ... e estudando análise de dados 📊.
+<img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<!--
-**LucasSI34/LucasSI34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aqui no git estão alguns projetos de dados.
 
-Here are some ideas to get you started:
+Links:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/lucas-souza-296126218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Behance:
+https://www.behance.net/lucasjose9
+  
+  
+  
+  ![Snake animation](https://github.com/Noltim/Noltim/blob/output/github-contribution-grid-snake.svg)
