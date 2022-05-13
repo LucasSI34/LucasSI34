@@ -4,7 +4,7 @@ Estudante graduando em Sistemas de informação 💻 e estudando análise de dad
 ## 💻 Aqui no git estão alguns projetos de dados
   
   
-  ![Snake animation](https://github.com/LucasSI34/LucasSI34/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/LucasSI34/LucasSI34/blob/output/github-contribution-grid-snake.svg)
   
  ## •Badges:
 <div>
