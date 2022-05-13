@@ -1,6 +1,7 @@
 26 lines (22 sloc)  585 Bytes
   
-name: Generate Datas
+name:
+  Cobra
 
 on:
   schedule: # execute every 12 hours
