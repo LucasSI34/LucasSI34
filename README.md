@@ -6,7 +6,7 @@ Estudante graduando em Sistemas de informação 💻 e estudando análise de dad
   
   ![Snake animation](https://github.com/Noltim/Noltim/blob/output/github-contribution-grid-snake.svg)
   
- ## Badges:
+ ## •Badges:
 <div>
 <img src="https://user-images.githubusercontent.com/83434422/168397230-7db90d1d-5998-487c-9fdb-4ae2f5d5706a.png" width="100px" />
 </div>
