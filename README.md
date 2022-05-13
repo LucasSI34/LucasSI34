@@ -9,7 +9,7 @@ Links:
 <a href="https://www.linkedin.com/in/lucas-souza-296126218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Behance:
-https://www.behance.net/lucasjose9
+📊 https://www.behance.net/lucasjose9
   
   
   
