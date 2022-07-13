@@ -11,5 +11,4 @@ Estudante graduando em Sistemas de informação 💻 e estudando análise de dad
 </div>
   <a href="https://www.linkedin.com/in/lucas-souza-296126218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  📊 https://www.behance.net/lucasjose9
 
