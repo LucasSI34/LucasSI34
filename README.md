@@ -1,9 +1,10 @@
 # Olá! Eu sou o Lucas 
-Estudante graduando em Sistemas de informação 💻 e estudando análise de dados com Python<img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+Estudante graduando em Sistemas de informação 💻 e estudante dados
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ## 💻 Aqui  estão alguns projetos na área de dados
   
- 
+ <img align="center" alt="Carol-Python" height="30" width="40" 
   
  ## •Badges:
 <div>
