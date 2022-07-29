@@ -10,6 +10,7 @@ Estudante graduando em Sistemas de informação 💻 e estudante dados
 
 Tecnologias ↓
 <i class="fa-brands fa-python"></i>
+
   <a href="https://www.linkedin.com/in/lucas-souza-296126218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
