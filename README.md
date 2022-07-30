@@ -4,13 +4,8 @@ Estudante graduando em Sistemas de informação 💻 e estudante dados
 ## 💻 Aqui  estão alguns projetos na área de dados
   
 ### •Tecnologias → 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=50px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50px />
-https://icongr.am/simple/amazonaws.svg?size=50&color=currentColor&colored=false
-https://icongr.am/simple/powerbi.svg?size=50&color=currentColor&colored=false
-https://icongr.am/simple/apachespark.svg?size=50&color=currentColor&colored=false
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=25px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=25px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=25px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=25px />
+
   
   
  ### •Badges:
