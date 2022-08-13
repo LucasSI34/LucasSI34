@@ -1,5 +1,5 @@
 # Olá! Eu sou o Lucas 
-Estudante graduando em Sistemas de informação 💻 e estudante dados
+Estudante graduando em Sistemas de informação 💻 e estudante de data science 
 
 ## 💻 Aqui  estão alguns projetos na área de dados
   
