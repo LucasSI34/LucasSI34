@@ -1,11 +1,28 @@
-# Olá! Eu sou o Lucas 
-Curioso por dados
+# Olá! Eu sou o Lucas 👋
 
-## 💻 Aqui  estão alguns projetos na área de dados
-  
-### •Algumas tecnologias que uso: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px />
+### 📊 Dados | SQL • Python • Power BI
 
-  
-  
+Tenho interesse na área de dados e no desenvolvimento de soluções que transformam informações em insights relevantes para a tomada de decisões.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+**Linguagens e Banco de Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Análise e Visualização de Dados**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+
+### 📫 Contato
+
+<!-- https://www.linkedin.com/in/lucas-souza-296126218/ -->
 
