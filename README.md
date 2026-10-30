@@ -17,12 +17,11 @@ Tenho interesse na área de dados e no desenvolvimento de soluções que transfo
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 
 ### 📫 Contato
 
-<!-- https://www.linkedin.com/in/lucas-souza-296126218/ -->
+https://www.linkedin.com/in/lucas-souza-296126218/
 
